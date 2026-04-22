@@ -29,9 +29,9 @@
 
 ### 🛰️ Vision & Core Projects
 
-- 🔭 **Architecting Solutions:** Developing **FixLab** (B2B Technical Service Management) and **TradeLab** (Senior-level Market Simulator).
-- 🏗️ **Full Stack Mastery:** High-performance mobile UI with Flutter integrated into robust .NET Core & PHP 7.4 backend architectures.
-- 🔐 **Scalability:** Focusing on JWT authentication, payment gateway integrations (Stripe/Iyzico), and cloud-native infrastructure.
+- 🔭 **Architecting Solutions:** Developing high-performance applications and scalable systems.
+- 🏗️ **Full Stack Mastery:** High-performance mobile UI with Flutter integrated into robust .NET & PHP backend architectures.
+- 🔐 **Scalability:** Focusing on JWT authentication, payment gateway integrations , and cloud-native infrastructure.
 
 <br>
 
